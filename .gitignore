@@ -1,0 +1,13 @@
+.env
+runs/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.mae
+*.cms
+*.msj
+*.log
+*.done
+md_setup/
+context.json
